@@ -3,7 +3,7 @@ package Robot;
 public class RobotDancer extends Robot {
 	
 	public RobotDancer() {
-		super("RobotDanсer", "просто танцюю");		
+		super("RobotDanГ±er", "РїСЂРѕСЃС‚Рѕ С‚Р°РЅС†СЋСЋ");		
 	}
 	
 }
