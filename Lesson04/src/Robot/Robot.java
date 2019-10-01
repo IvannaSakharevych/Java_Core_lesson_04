@@ -14,12 +14,12 @@ public class Robot {
 	public Robot () {
 //		super();
 		this.name = "Robot";
-		this.action = "ïðîñòî ïðàöþþ";
+		this.action = "Ã¯Ã°Ã®Ã±Ã²Ã® Ã¯Ã°Ã Ã¶Ã¾Ã¾";
 	}
 
 	public void work() {
 		
-		System.out.println("ß " + this.name + " - ÿ " + this.action + ".");
+		System.out.println("Ð¯ " + this.name + " - Ð¯ " + this.action + ".");
 		
 	}
 
