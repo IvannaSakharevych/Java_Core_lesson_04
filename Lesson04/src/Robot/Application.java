@@ -7,8 +7,8 @@ public class Application {
 		Robot robot = new Robot();
 		robot.work();
 		
-		CoffeRobot coffeeRobot = new CoffeRobot();
-	    coffeeRobot.work();
+		CoffeRobot coffeRobot = new CoffeRobot();
+	    coffeRobot.work();
 	    
 	    RobotDancer robotDancer = new RobotDancer();
 	    robotDancer.work();
@@ -18,7 +18,7 @@ public class Application {
 	    
 	    System.out.println();
 	    
-	    Robot[] robots = {robot, coffeeRobot, robotDancer, robotCoocker};
+	    Robot[] robots = {robot, coffeRobot, robotDancer, robotCoocker};
 	    for (int i = 0; i < robots.length; i++) {
 	      robots[i].work();
 	    }
