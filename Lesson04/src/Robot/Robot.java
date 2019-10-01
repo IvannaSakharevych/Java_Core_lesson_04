@@ -19,7 +19,7 @@ public class Robot {
 
 	public void work() {
 		
-		System.out.println("Я " + this.name + " - Я " + this.action + ".");
+		System.out.println("Я " + this.name + " - я " + this.action + ".");
 		
 	}
 
