@@ -4,10 +4,10 @@ public class Application {
 
 	public static void main(String[] args) {
 		
-		Robot robot = new Robot();
-		robot.work();
+	    Robot robot = new Robot();
+	    robot.work();
 		
-		CoffeRobot coffeRobot = new CoffeRobot();
+	    CoffeRobot coffeRobot = new CoffeRobot();
 	    coffeRobot.work();
 	    
 	    RobotDancer robotDancer = new RobotDancer();
