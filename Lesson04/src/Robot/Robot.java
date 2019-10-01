@@ -14,7 +14,7 @@ public class Robot {
 	public Robot () {
 //		super();
 		this.name = "Robot";
-		this.action = "ïðîñòî ïðàöþþ";
+		this.action = "просто працюю";
 	}
 
 	public void work() {
